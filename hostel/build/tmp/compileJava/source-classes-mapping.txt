@@ -1,0 +1,2 @@
+com/sample/hostel/HostelDetailsApplication.java
+ com.sample.hostel.HostelDetailsApplication
